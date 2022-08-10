@@ -1,3 +1,15 @@
+body {
+    background: #FA91DE;
+    font-size:20px;
+}
+h1{
+    text-align:center;
+    background: #AD5395;
+    color:#ffffff ;  
+}
 p{ 
-    text-align:center ;
- }
+    text-align: justify ;
+}
+i{color:#78FAFA; 
+
+}
