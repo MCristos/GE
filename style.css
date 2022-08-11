@@ -6,14 +6,23 @@ body {
 }
 #core11 {width: 120px;
 }
+#japones { width: 50%;
+}
+#tab_fotos{
+    font-size: 10px;
+    color: black;
+}
 h1{
     text-align:center;
+    width: 90%;
     background: #AD5395;
-    color:#ffffff ;  
+    color:#ffffff; 
+    border-style: ridge;
+    border-width: 3px;
+    border-color: #78FAFA;
 }
 p{ 
     text-align: justify ;
 }
 i{color:#78FAFA; 
-
 }
