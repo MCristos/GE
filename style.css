@@ -2,6 +2,8 @@ body {
     background: #FA91DE;
     font-size:20px;
 }
+#topo {width: 90%;
+}
 #pata {width: 35px;  
 }
 #core11 {width: 120px;
@@ -21,8 +23,28 @@ h1{
     border-width: 3px;
     border-color: #78FAFA;
 }
+.teste {
+    color: aqua;
+    font-size:16 ;
+}
+.amor {
+    width: 25%;
+    vertical-align: top;
+    width: 25%;
+    margin-left: 50px;
+}
 p{ 
     text-align: justify ;
 }
-i{color:#78FAFA; 
+em{
+    color:#78FAFA; 
+}
+li::marker{
+    font-size: 20px;
+    color-scheme: red;
+    content:"\2764" ;
+
+}
+ul {
+    display: inline-block;
 }
